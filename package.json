@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@apollo/react-hooks": "^4.0.0",
+    "apollo-server-express": "^3.11.1",
     "graphql-tag": "^2.12.6"
   }
 }
